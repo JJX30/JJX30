@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Yoo, I'm Mauricio! 👋
+This readme is not final, I'm working on it 🙂👍
 <!--
 **JJX30/JJX30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
