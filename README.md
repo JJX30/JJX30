@@ -2,15 +2,15 @@
 
 I'm a fullstack programmer from Miami 🌴 who's currently studying at the University of Florida 🐊 <br>
 
-I'm pursuing a undergraduate CS degree and passionate about:
+I'm pursuing an undergraduate CS degree and passionate about:
 
 - 🥋 MMA
 - 🎹 Music
 - 🎨 Art
-- 📚 History
 
 I’m currently working on 🔭 ...
-- 🍎 IOS app
+- ✏️ Client website
+- 🏋️ Gym capacity tracker
 
 ### <b> ***Looking for internship opportunities so I can work at FAANG and quit to start a youtube channel 😎*** </b>
 I'm really smart, trust <br> 
